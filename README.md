@@ -2,22 +2,22 @@
 # Hoja de Vida
 
 ## Información Personal
-**Nombre:** [Tu Nombre]  
-**Correo Electrónico:** [tu.correo@ejemplo.com]  
-**Teléfono:** [+123-456-7890]  
+**Nombre:** [Americo julio alvarez tellez]  
+**Correo Electrónico:** [americooficial23@gmail.com]  
+**Teléfono:** [+591 63919683]  
 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-**GitHub:** [github.com/tu-usuario](https://github.com/tu-usuario)
+**GitHub:** [github.com/tu-usuario](https://github.com/mequito3)
 
 ## Resumen
 Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrollo de soluciones informáticas y optimización de procesos. Comprometido con la innovación y la adopción de nuevas tecnologías para mejorar la eficiencia operativa.
 
 ## Experiencia Profesional
-### [Nombre de la Empresa]
-**Cargo:** [Tu Cargo]  
-**Periodo:** [Mes/Año] - [Mes/Año]  
-- Responsabilidad 1
-- Responsabilidad 2
-- Logro destacado
+### [C.D.E]
+**Cargo:** [Desarrollador web]  
+**Periodo:** [01/2023] - [04/2024]  
+- Diseño web
+- Desarrolo web
+- Mantenimiento
 
 ### [Nombre de la Empresa]
 **Cargo:** [Tu Cargo]  
@@ -27,7 +27,7 @@ Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrol
 - Logro destacado
 
 ## Educación
-### [Nombre de la Universidad]
+### [UCATEC]
 **Título:** [Tu Título]  
 **Periodo:** [Mes/Año] - [Mes/Año]  
 - Detalle relevante
