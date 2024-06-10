@@ -10,7 +10,7 @@
 <div style="color:blue; font-weight:bold;">GitHub:</div> [https://github.com/mequito3](https://github.com/mequito3)
 
 ## Resumen
-Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrollo de soluciones informáticas y optimización de procesos. Comprometido con la innovación y la adopción de nuevas tecnologías para mejorar la eficiencia operativa.
+Estudiante de ingenieria en Sistemas apasionado por la tecnología, con experiencia en desarrollo de soluciones informáticas y optimización de procesos. Comprometido con la innovación y la adopción de nuevas tecnologías para mejorar la eficiencia operativa.
 
 ## Experiencia Profesional
 ### C.D.E
