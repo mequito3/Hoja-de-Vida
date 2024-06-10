@@ -3,8 +3,9 @@
 ## Información Personal
 **Nombre:** Americo Julio Alvarez Tellez  
 **Correo Electrónico:** americooficial23@gmail.com  
-**Teléfono:** +591 63919683  
+**Teléfono:** +591 63919683 
 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
+
 **GitHub:** [github.com/tu-usuario](https://github.com/mequito3)
 
 ## Resumen
@@ -20,10 +21,9 @@ Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrol
 
 ### Nombre de la Empresa
 **Cargo:** Tu Cargo  
-**Periodo:** Mes/Año - Mes/Año  
-- Responsabilidad 1
-- Responsabilidad 2
-- Logro destacado
+**Periodo:** 01/2023 - 01/2024  
+- Mantenimiento de base de datos
+- Revisar informacion sobre base de datos
 
 ## Educación
 ### UCATEC
