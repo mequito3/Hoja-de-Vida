@@ -4,9 +4,8 @@
 <div style="color:blue; font-weight:bold;">Correo Electrónico:</div> americooficial23@gmail.com  
 <div style="color:blue; font-weight:bold;">Teléfono:</div> +591 63919683  
 
-<div style="color:blue; font-weight:bold;">LinkedIn:</div> [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
-<div style="color:blue; font-weight:bold;">GitHub:</div> [github.com/tu-usuario](https://github.com/mequito3)
-
+<div style="color:blue; font-weight:bold;">LinkedIn:</div> [https://linkedin.com]
+<div style="color:blue; font-weight:bold;">GitHub:</div> [https://github.com/mequito3](https://github.com/mequito3)
 
 ## Resumen
 Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrollo de soluciones informáticas y optimización de procesos. Comprometido con la innovación y la adopción de nuevas tecnologías para mejorar la eficiencia operativa.
