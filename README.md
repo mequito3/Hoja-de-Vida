@@ -4,6 +4,7 @@
 **Nombre:** Americo Julio Alvarez Tellez  
 **Correo Electrónico:** americooficial23@gmail.com  
 **Teléfono:** +591 63919683 
+
 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)  
 
 **GitHub:** [github.com/tu-usuario](https://github.com/mequito3)
