@@ -35,7 +35,6 @@ Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrol
 ## Habilidades
 - Habilidad 1
 - Habilidad 2
-- Habilidad 3
 
 ## Proyectos
 ### TutorApp
