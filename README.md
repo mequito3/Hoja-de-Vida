@@ -20,7 +20,8 @@ Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrol
 - Mantenimiento
 
 ### Nombre de la Empresa
-**Cargo:** Tu Cargo  
+### MultiTienda
+**Cargo:** Creador de base de datos  
 **Periodo:** 01/2023 - 01/2024  
 - Mantenimiento de base de datos
 - Revisar informacion sobre base de datos
