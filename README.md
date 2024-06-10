@@ -1,11 +1,10 @@
 
 ## Información Personal
 
-## <img src="https://scontent.fcbb1-1.fna.fbcdn.net/v/t1.6435-9/159975648_783752249220207_4122494337962661724_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFKtJ_71jdouASQiIKhMksU5n90UMGgXiLmf3RQwaBeIqvUd-OxWEHcdvfAuJTIEjuIyt5UtR2SgssJbeKig0f0&_nc_ohc=n018amgpkcQQ7kNvgHjSKk0&_nc_ht=scontent.fcbb1-1.fna&oh=00_AYBrZmYRY4VLaXmqOXg20t075aXGKLq0LuZ-FlDG4gbiTw&oe=668EAA6E" alt="Foto de Perfilcito" style="width:100px; border-radius: 50%;"/>
+<div style="color:blue; font-weight:bold;">Nombre:</div> Americo Julio Alvarez Tellez 
 
-
-<div style="color:blue; font-weight:bold;">Nombre:</div> Americo Julio Alvarez Tellez  
 <img src="https://scontent.fcbb1-1.fna.fbcdn.net/v/t1.6435-9/159975648_783752249220207_4122494337962661724_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFKtJ_71jdouASQiIKhMksU5n90UMGgXiLmf3RQwaBeIqvUd-OxWEHcdvfAuJTIEjuIyt5UtR2SgssJbeKig0f0&_nc_ohc=n018amgpkcQQ7kNvgHjSKk0&_nc_ht=scontent.fcbb1-1.fna&oh=00_AYBrZmYRY4VLaXmqOXg20t075aXGKLq0LuZ-FlDG4gbiTw&oe=668EAA6E" alt="Foto de Perfilcito" style="width:100px; border-radius: 50%;"/>
+
 <div style="color:blue; font-weight:bold;">Correo Electrónico:</div> americooficial23@gmail.com  
 <div style="color:blue; font-weight:bold;">Teléfono:</div> +591 63919683  
 
