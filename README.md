@@ -28,7 +28,7 @@ Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrol
 
 ## Educación
 ### UCATEC
-**Título:** Tu Título
+**Título:** Ing. Sistemas
 **Periodo:** Mes/Año - Mes/Año 
 - Detalle relevante
 
@@ -38,12 +38,11 @@ Ingeniero en Sistemas apasionado por la tecnología, con experiencia en desarrol
 - Habilidad 3
 
 ## Proyectos
-### [Nombre del Proyecto]
-Descripción breve del proyecto, tecnologías utilizadas y resultados obtenidos.
+### TutorApp
+Una aplicacion que te permite solicitar ayuda academica mediando la aplicacion web, donde se podra solicitar tutorires en diferentes materias.
 
-### [Nombre del Proyecto]
-Descripción breve del proyecto, tecnologías utilizadas y resultados obtenidos.
-
+### Generados de proyectos de grado
+una aplicacion que te permite buscar proyectos de grado para dar una didea de temas
 ## Certificaciones
 - Nombre de la Certificación - Institución - Año
 - Nombre de la Certificación - Institución - Año
